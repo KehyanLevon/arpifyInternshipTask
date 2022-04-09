@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded",async function foo(){
     let myInfo = (
     {
-        firstName:"Levon",
-        lastName:"Kehyan",
+        firstName:"Levon2",
+        lastName:"Kehyan2",
         birthDay:"2002-10-29",
         gender:"male",
     });
